@@ -1,5 +1,3 @@
-To test the CNN,
-First run the PKL_TO_CSV.py.
-Once the flattenedimage.csv file is created, run the MLmodelcreator.py to test the CNN.
+CNN is still in development. You can refer the MLmodelcreator.py file for the code. It's not possible to upload the whole image dataset due to its extremely large size. So, I have provided sceenshots of the output of CNN and its analysis.
 
 To test RandomForrest and K-Nearest Neighbor, run the tester.py file with your input image.
